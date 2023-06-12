@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(222, 226, 230);
+}
+.column{
+    width: 25%;
+    float: left;
+}
+.san-pham{
+    border-radius: 10px;
+    box-shadow: 0 0 5px  gray;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: white;
+}
+.san-pham .ten{
+    font-size: larger;
+    font-variant: small-caps;
+    text-align: left;
+
+}
+.san-pham img{
+    max-width: 95%;
+}
+.sela{
+    margin: 10px 0 10px 0;
+    text-align: left;
+}
+
+.san-pham .gia{
+    color: red;
+    font-weight: bold;
+    font-size: larger;
+    text-align: left;
+}
+.san-pham p{
+    text-align: left;
+    margin: 20px 0 20px 0;
+}
+.san-pham .gia del{
+    color: gray;
+}
+.logobh{
+    width: 30px;
+    height: 30px;
+    text-align: left;
+}
+.san-pham:hover{
+    box-shadow: 0 0 50px gray;
+    transform: scale(1.05);
+}
+a{
+    color: black;
+}

@@ -1,0 +1,21 @@
+body{
+background-color: rgb(226, 226, 226);
+}
+.container{
+    padding-top: 100px;
+    padding: 100px;
+    margin: 100px;
+    background-color: rgb(255, 255, 255);
+}
+.item{
+    float: left;
+    width: 30%;
+    height: 200px;
+    padding-left: 70px;
+
+}
+.footer{
+    padding-left: 20px;
+    clear: both;
+}
+
